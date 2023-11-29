@@ -1,2 +1,6 @@
 Step 1: Order the pizza
 Step 2: Wait for the delivery
+
+Steps before ordering:
+Select where you will order the pizza from
+Select what type of pizza you will order
